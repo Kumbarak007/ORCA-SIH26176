@@ -1,0 +1,17 @@
+[
+    {
+        "zone_id": "ZONE_A",
+        "distance_from_start_km": 30,
+        "restricted": false
+    },
+    {
+        "zone_id": "ZONE_B",
+        "distance_from_start_km": 10,
+        "restricted": false
+    },
+    {
+        "zone_id": "ZONE_C",
+        "distance_from_start_km": 16,
+        "restricted": true
+    }
+]

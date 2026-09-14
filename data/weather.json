@@ -1,0 +1,29 @@
+[
+    {
+        "zone_id": "ZONE_A",
+        "wind_speed": 16,
+        "rainfall": 0,
+        "storm": false,
+        "visibility": 9,
+        "risk": "LOW",
+        "timestamp": "2026-09-14T06:00:00"
+    },
+    {
+        "zone_id": "ZONE_B",
+        "wind_speed": 8,
+        "rainfall": 0,
+        "storm": false,
+        "visibility": 10,
+        "risk": "LOW",
+        "timestamp": "2026-09-14T06:00:00"
+    },
+    {
+        "zone_id": "ZONE_C",
+        "wind_speed": 14,
+        "rainfall": 0,
+        "storm": false,
+        "visibility": 8,
+        "risk": "LOW",
+        "timestamp": "2026-09-14T06:00:00"
+    }
+]

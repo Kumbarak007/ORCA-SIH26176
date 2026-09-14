@@ -1,0 +1,29 @@
+[
+    {
+        "zone_id": "ZONE_A",
+        "chlorophyll_a": 3.2,
+        "sst": 28.5,
+        "wave_height": 1.2,
+        "current_speed": 0.7,
+        "confidence": 0.90,
+        "timestamp": "2026-09-14T06:00:00"
+    },
+    {
+        "zone_id": "ZONE_B",
+        "chlorophyll_a": 2.6,
+        "sst": 28.3,
+        "wave_height": 0.6,
+        "current_speed": 0.4,
+        "confidence": 0.88,
+        "timestamp": "2026-09-14T06:00:00"
+    },
+    {
+        "zone_id": "ZONE_C",
+        "chlorophyll_a": 2.9,
+        "sst": 28.2,
+        "wave_height": 0.8,
+        "current_speed": 0.5,
+        "confidence": 0.91,
+        "timestamp": "2026-09-14T06:00:00"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "zone_id": "ZONE_A",
+        "latitude": 15.21,
+        "longitude": 73.96,
+        "suitability": 0.95,
+        "confidence": 0.92,
+        "valid_time": "2026-09-14T06:00:00"
+    },
+    {
+        "zone_id": "ZONE_B",
+        "latitude": 15.28,
+        "longitude": 74.02,
+        "suitability": 0.78,
+        "confidence": 0.89,
+        "valid_time": "2026-09-14T06:00:00"
+    },
+    {
+        "zone_id": "ZONE_C",
+        "latitude": 15.16,
+        "longitude": 73.88,
+        "suitability": 0.88,
+        "confidence": 0.91,
+        "valid_time": "2026-09-14T06:00:00"
+    }
+]
