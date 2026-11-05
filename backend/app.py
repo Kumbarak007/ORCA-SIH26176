@@ -5,6 +5,9 @@ from dataclasses import asdict
 from mission_orchestrator import MissionOrchestrator
 from llm_explainer import LLMExplainer
 
+from dotenv import load_dotenv
+load_dotenv()
+
 
 app = Flask(__name__)
 
